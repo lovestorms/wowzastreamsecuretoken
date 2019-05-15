@@ -2,7 +2,7 @@
     "name": "lovestorms/wowzastreamsecuretoken",
     "description": "Laravel Package for Wowza SecureToken module",
     "license": "MIT",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "type": "library",
     "keywords": ["php", "wowza", "securetoken"],
     "authors": [
