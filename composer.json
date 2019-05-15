@@ -1,0 +1,22 @@
+{
+    "name": "lovestorms/wowzastreamsecuretoken",
+    "description": "Laravel Package for Wowza SecureToken module",
+    "license": "MIT",
+    "version": "0.0.2",
+    "type": "library",
+    "keywords": ["php", "wowza", "securetoken"],
+    "authors": [
+        {
+            "name": "Duc Do",
+            "email": "dtminhduc@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Lovestorms\\WowzaStreamToken\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.0.0"
+    }
+}
