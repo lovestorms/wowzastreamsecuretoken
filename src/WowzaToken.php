@@ -1,6 +1,6 @@
 <?php
 
-namespace Lovestorms\WowzaStreamToken;
+namespace Lovestorms\Wowzastreamsecuretoken;
 
 class WowzaToken
 {

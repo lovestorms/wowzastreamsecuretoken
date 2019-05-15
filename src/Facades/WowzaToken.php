@@ -1,6 +1,6 @@
 <?php
 
-namespace Lovestorms\WowzaStreamToken\Facades;
+namespace Lovestorms\Wowzastreamsecuretoken\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
